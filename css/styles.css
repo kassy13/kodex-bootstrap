@@ -2,6 +2,7 @@
   position: sticky;
   top: 0;
   z-index: 999999999;
+  background-color: red !important;
 }
 .nav-main-links {
   width: 100%;
